@@ -3,7 +3,7 @@
 > ⚠️ **Archived & unmaintained.** This fork is no longer developed — kept here for reference only.
 >
 > - **Want the open-source module?** Follow upstream → [`Nitsuya/AADisplay`](https://github.com/Nitsuya/AADisplay).
-> - **Want a maintained, ready-to-use app?** Try **KoalaMirror**, independently rebuilt from what we learned here → **[koalamirror.com](https://koalamirror.com)**.
+> - **Want a maintained, ready-to-use app?** Try **KoalaMirror**, independently rebuilt from what we learned here → **[koalaauto/KoalaMirror](https://github.com/koalaauto/KoalaMirror)** — [download the APK](https://github.com/koalaauto/KoalaMirror/releases/latest), or read more at [koalamirror.com](https://koalamirror.com).
 >
 > Still GPL-3.0, with thanks to [@Nitsuya](https://github.com/Nitsuya). The original project README is preserved below. 🐨
 
